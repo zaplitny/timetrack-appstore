@@ -1,50 +1,50 @@
-#### Track your time with single touch in timetrack.io!
+在timetrack.io中，只需轻轻一碰就能追踪你的时间。
 
-Spending only a few minutes a day on this app you will get daily, weekly and monthly statistics in the form of diagrams and graphs. Using this data you'll be able to control and manage your time.
+每天只需花几分钟的时间，你就可以通过图表和图形的形式获得每日、每周和每月的统计数据，使用这些数据，你将能够控制和管理你的时间。
 
-timetrack.io is the right solution for everyone:
-- business people with an intensive daily routine;
-- sportsmen who value every minute of their day;
-- freelancers;
-- everyone who is interested in what activities they spend their day on and those who want to control and optimize their time.
+timetrack.io提供适合所有人的解决方案：
 
-#### Application features:
-- easy and intuitive interface
-- goals
-- pause/resume activities
-- groups
-- pomodoro
-- simultaneous activities (enable them in Settings)
-- many statistics available in form of graphs and pie charts
-- reports in different formats (CSV and HTML)
-- a huge number of icons for activity types and ability to upload custom icons
-- Today Extension for quick start/stop
-- Apple Watch integration
-- Siri Shortcuts
-- the best support :-)
+  商务人士，每天都要进行密集的日常工作。
+  重视每一分每一秒的GTDer。
+  自由职业者。
+  每一个对自己的时间流向感兴趣的人，以及希望控制和优化自己的时间的人。
 
-***
-The optional Premium gives access to the following features:
-- Pomodoro
-- Daily bar charts
-- Occurrence goals
-- Advanced statistics
-- Calendar integration
-- Geo notifications
+应用程序的功能：
 
-***
-SUBSCRIPTION TERMS
-- Monthly: $0.99
-- 6 Months: $4.99
-- Yearly: $7.99
+  - 简单而直观的界面
+  - 目标
+  - 暂停/继续活动
+  - 多级分类（群组）
+  - 同时进行的活动（在设置中启用）
+  - 多种可视化图表
+  - 可导出报告(CSV和HTML)
+  - 自定义活动图标
+  - 支持快速启动/停止小部件
+  - 支持Apple Watch
+  - 支持Siri捷径
+  - 还有其他更多好用的功能，期待你发现 :-)
 
-Terms:
-- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
-- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
-- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
-- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+付费升级高级版额外提供以下功能：
+  
+  - 番茄钟
+  - 日柱形图
+  - 目标比率计算
+  - 高级统计图表
+  - 整合日历
+  - 地理位置识别并提醒
 
-***
-Privacy policy: http://timetrack.io/privacy.html
+付费详情：
 
-Terms of use: http://timetrack.io/terms.html
+    21元/季度
+    35元/半年
+    58元/每年
+    68元/两年
+
+请注意：
+
+        订阅自动续费，除非在当前期限结束前至少24小时内关闭自动续费，否则会自动续费。
+        用户可自行管理订阅，购买后可在用户的账户设置中关闭自动续费。
+        如果提供免费试用期的任何未使用的部分，当用户付费订阅软件时，试用期将被回收。
+
+隐私政策：http://timetrack.io/privacy.html
+使用条款：http://timetrack.io/terms.html
