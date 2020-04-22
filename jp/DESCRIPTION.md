@@ -1,27 +1,26 @@
-#### Track your time with single touch in timetrack.io!
+#### timetrack.ioを使って手軽にあなたの時間を記録しましょう！
 
-Spending only a few minutes a day on this app you will get daily, weekly and monthly statistics in the form of diagrams and graphs. Using this data you'll be able to control and manage your time.
+一日のうち、ほんの少しの時間を使ってこのアプリに記録するだけで、日/週/月ごとの行動の統計をグラフやダイアグラムで見ることができます。そのデータを分析すれば、自分の時間の使い方のムダが見えてきます。どうすればムダがなくなるのか?それを自分でコントロールすることができるのです。 
 
-timetrack.io is the right solution for everyone:
-- business people with an intensive daily routine;
-- sportsmen who value every minute of their day;
-- freelancers;
-- everyone who is interested in what activities they spend their day on and those who want to control and optimize their time.
+timetrack.ioは、全ての人に、それぞれに合った解決策を提供します。 
+・日々のルーティン作業に追われるビジネスマン 
+・わずかな時間の無駄も惜しむアスリート 
+・フリーランサー
+・何をしている間に一日が終わってしまうのか…それを把握してもっと有意義に過ごしたい!と思っている全ての人 
 
-#### Application features:
-- easy and intuitive interface
-- goals
-- pause/resume activities
-- groups
-- pomodoro
-- simultaneous activities (enable them in Settings)
-- many statistics available in form of graphs and pie charts
-- reports in different formats (CSV and HTML)
-- a huge number of icons for activity types and ability to upload custom icons
-- Today Extension for quick start/stop
-- Apple Watch integration
-- Siri Shortcuts
-- the best support :-)
+#### アプリケーションの機能： 
+・簡単で直感的な操作画面
+・ゴールの設定
+・記録の一時停止/再開
+・アクティビティのグループ化
+・ポモドーロテクニック
+・同時進行するアクティビティの記録（設定により可能）
+・棒グラフや円グラフで多くの統計を表示可能
+・CSVやHTMLでのレポート作成
+・アクティビティ表示のための潤沢なアイコン。カスタムアイコンのアップロードも可。
+・Todayウィジェットへ表示して、素早く記録
+・Apple Watchとの連動
+・最高のサポート :-)
 
 ***
 The optional Premium gives access to the following features:
